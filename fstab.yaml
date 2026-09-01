@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: localhost:3000/bin/franklin.delivery/adithyaraj-k/eds-forms-test/main  
+    type: "markup"
+    suffix: ".html"
