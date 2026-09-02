@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "http://localhost:4502/content/eds-forms-test/main/test-adaptive-form"
+    url: "https://author-p185256-e1945105.adobeaemcloud.com/bin/franklin.delivery/adithyaraj-k/eds-forms-test/main"
     type: "markup"
     suffix: ".html"
     
