@@ -3,3 +3,4 @@ mountpoints:
     url: "http://localhost:4502/content/eds-forms-test/main/test-adaptive-form"
     type: "markup"
     suffix: ".html"
+    
