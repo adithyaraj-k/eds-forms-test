@@ -4,6 +4,7 @@ mountpoints:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
 =======
     url: localhost:3000/bin/franklin.delivery/adithyaraj-k/eds-forms-test/main  
@@ -17,6 +18,9 @@ mountpoints:
 =======
     url: "https://author-p185256-e1945105.adobeaemcloud.com/bin/franklin.delivery/adithyaraj-k/eds-forms-test/main"
 >>>>>>> 0c3af76 (Update fstab.yaml)
+=======
+    url: https://author-p8452-e1321974.adobeaemcloud.com/bin/franklin.delivery/adithyaraj-k/eds-forms-test/main
+>>>>>>> 4c86d91 (Update URL for mountpoint in fstab.yaml)
     type: "markup"
     suffix: ".html"
     
